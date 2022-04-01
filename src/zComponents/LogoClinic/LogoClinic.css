@@ -1,0 +1,41 @@
+.logo-container {
+    display: grid;
+    grid-template-rows: 50% 25% 25%;
+    justify-content: center;
+    height: 80px;
+}
+
+.upper {
+    display: grid;
+    justify-content: center;
+}
+
+h1 {
+    font-size: 35px !important;
+    letter-spacing: 5px;
+    color: white;
+}
+
+.middle {
+    display: grid;
+    justify-content: center;
+    background-color: white;
+}
+
+h2 {
+    font-size: 16px;
+    letter-spacing: 5px;
+    color: rgb(20, 149, 131);
+    padding-left: 4px;
+}
+
+.bottom {
+    display: grid;
+    justify-content: center;
+}
+
+.bottom span {
+    color: white;
+    font-weight: 400;
+    font-size: 1rem;
+}

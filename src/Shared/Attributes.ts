@@ -1,0 +1,1 @@
+export const maxHeightSubComponent = "20rem"
